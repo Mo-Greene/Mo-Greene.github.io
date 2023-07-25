@@ -48,7 +48,7 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "https://github.com/Mo-Greene"
+  - github: "Mo-Greene"
   - email: "13blueboy13@naver.com"
   #- linkedin: ""
   #- twitter: ""
