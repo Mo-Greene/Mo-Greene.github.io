@@ -35,7 +35,7 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text markdown-style">
-    {{ content }}
+      날 끓여라
   </div>
 </div>
 

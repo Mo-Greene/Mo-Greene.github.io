@@ -10,8 +10,6 @@ author: Mr. Green's Workshop
 category: blog
 # multiple tag entries are possible
 tags: [talk]
-# thumbnail image for post
-img: <img width="942" alt="스크린샷 2023-07-25 오후 9 20 49" src="https://github.com/Mo-Greene/Mo-Greene.github.io/assets/97177357/07d44ea6-5730-4aa3-8551-9d696e5590e0">
 # disable comments on this page
 #comments_disable: true
 
