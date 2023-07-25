@@ -35,7 +35,8 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text markdown-style">
-      That kid's name was 'Mo-Greene' -God Father2
+
+      That kid's name was 'Mo-Greene' - God Father2
   </div>
 </div>
 

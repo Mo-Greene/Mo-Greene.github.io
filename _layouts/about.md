@@ -20,7 +20,7 @@ layout: default
         {%- if site.data.owner[lng].about.sub_title %}
           <p class="sub-title">
             {%- if site.data.conf.others.about.sub_title_icon %}<i class="{{ 'fa-fw ' }}{{ site.data.conf.others.about.sub_title_icon }}" aria-hidden="true"></i>{% endif -%}
-            &nbsp;날 끓여라
+            &nbsp;{{ about_title }}
           </p>
         {% endif -%}
         {%- assign tmp_obj =  site.data.owner[lng].contacts | where_exp: "item", "item.email != nil" | first -%}
