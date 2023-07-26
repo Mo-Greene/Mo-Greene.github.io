@@ -35,8 +35,7 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text markdown-style">
-
-      - God Father2
+    {{content}}
   </div>
 </div>
 
